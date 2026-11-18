@@ -42,7 +42,6 @@ Romulus brings manufacturers and distributors onto one platform, from the first 
 
 ## Security
 
-- Signed commits and pull-request review on every repository
 - Dependabot and Snyk check our dependencies
 - Found a vulnerability? Read our [security policy](https://github.com/romulus-io/.github/blob/main/SECURITY.md) and email **compliance@romulus.io**
 
