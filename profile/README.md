@@ -20,7 +20,7 @@
 
 Romulus brings manufacturers and distributors onto one platform, from the first partner invitation to the last invoice.
 
-| | |
+| Feature | What it does |
 |---|---|
 | 🤝 **Partner onboarding** | Invite distributors and manage each partnership in one place. |
 | 📦 **Product catalogue** | Share products, pricing and documents with your partners. |
