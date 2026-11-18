@@ -6,5 +6,6 @@ Default community health files for the Romulus organisation. GitHub uses these f
 |---|---|
 | [SECURITY.md](SECURITY.md) | How to report a security vulnerability |
 | [profile/README.md](profile/README.md) | The public profile on the organisation page |
+| [profile/romulus-logo.png](profile/romulus-logo.png) | The logo on the public profile |
 
 Do not add a copy of these files to a single repository. A copy in a repository replaces the organisation default for that repository.
