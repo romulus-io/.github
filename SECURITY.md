@@ -4,8 +4,6 @@ This policy covers all Romulus repositories and services.
 
 ## Reporting a vulnerability
 
-Do not open a public issue, pull request or discussion for a security problem.
-
 Send the report by email to **compliance@romulus.io** with the subject `SECURITY: <short summary>`. Include:
 
 - The affected product, URL, endpoint or package
