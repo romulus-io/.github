@@ -17,16 +17,7 @@ Do not put credentials, customer data or secrets in the report. If you must shar
 
 ## What happens next
 
-| Step | Target time |
-|---|---|
-| We confirm that we received the report | 2 business days |
-| We triage it and give a first severity | 5 business days |
-| We fix a Critical issue | 7 days |
-| We fix a High issue | 30 days |
-| We fix a Medium issue | 90 days |
-| We fix a Low issue | 180 days |
-
-We give the severity from the CVSS v3.1 score and the business impact. We release fixes every week on Friday, and in mid-week releases when a fix cannot wait. We tell you when the fix is live.
+We will get back to you once we review your report.
 
 ## Supported versions
 
@@ -35,7 +26,6 @@ We support only the current production version of our services. We do not fix ol
 ## In scope
 
 - The Romulus web app
-- The Romulus control panel
 - The Romulus integration API
 - `romulus.io` and its subdomains
 
@@ -57,4 +47,4 @@ We support only the current production version of our services. We do not fix ol
 
 ## Dependencies
 
-Dependabot and Snyk check our repositories for vulnerable dependencies. Security updates follow the target times above.
+Dependabot and Snyk check our repositories for vulnerable dependencies.
