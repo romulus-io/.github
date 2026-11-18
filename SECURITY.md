@@ -6,7 +6,7 @@ This policy covers all Romulus repositories and services.
 
 Do not open a public issue, pull request or discussion for a security problem.
 
-Send the report by email to **anton@romulus.io** with the subject `SECURITY: <short summary>`. Include:
+Send the report by email to **compliance@romulus.io** with the subject `SECURITY: <short summary>`. Include:
 
 - The affected product, URL, endpoint or package
 - The steps to reproduce, or a proof of concept
